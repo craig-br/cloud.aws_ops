@@ -6,10 +6,7 @@ metadata:
   description: This wizard will guide you on how to create EC2 instance in the Amazon cloud
   namespace: default
   tags:
-    - aap-operations
-    - intermediate
     - cloud-aws-ops
-    - configure-ec2-pattern
     - create-ec2-instance
 spec:
   type: service
