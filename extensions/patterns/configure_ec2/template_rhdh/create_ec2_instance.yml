@@ -22,7 +22,7 @@ spec:
           type: string
           description: Oauth2 token
           ui:field: AAPTokenField
-          ui:widget: password
+          ui:widget: secret
           ui:backstage:
             review:
               show: false
